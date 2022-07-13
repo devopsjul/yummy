@@ -1,0 +1,8 @@
+organization=devopsjul
+projectKey=devopsjul_yummy
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30222
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=devopsjul_yummy&branch=master
+ceTaskId=AYH21Q43e3oMNCxoQ9wj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYH21Q43e3oMNCxoQ9wj

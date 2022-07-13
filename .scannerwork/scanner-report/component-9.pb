@@ -1,0 +1,1 @@
+	 2xmlX>hrKtarget/surefire-reports/TEST-in.shan5a6.myweb.controller.CalculatorTest.xml
